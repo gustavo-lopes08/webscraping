@@ -1,0 +1,5 @@
+zenUsr = ''
+zenPass = ''
+
+kenUsr = ''
+kenPass = ''
